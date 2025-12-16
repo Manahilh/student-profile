@@ -1,1 +1,2 @@
-Added validation rules for students. Updated validation rules for student.
+Added login functionality
+Added validation functionality
